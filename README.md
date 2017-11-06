@@ -1,7 +1,7 @@
 # PY-LINEWORKS-Bot-sample
 sample code for LINE WORKS Bot
 
-LINE WORKS でトーク Bot を作るためのサンプルコード
+LINE WORKS でトーク Bot からメッセージ送信を行うためのサンプル
 
 必要な環境
   Python 3.6.x
